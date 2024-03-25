@@ -14,6 +14,7 @@ public class UD4_GITHUB {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hola mi mundo <3");
         // TODO code application logic here
     }
     
